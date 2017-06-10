@@ -68,7 +68,7 @@ $_gengoData = array(
 	array("Kanji"=>"万寿",	"ja"=>array("まんじゅ"),							"en"=>array("Manju"),						"from"=>"1024/8/19","to"=>"1028/8/18",	"emperor"=>array("後一条天皇")),
 	array("Kanji"=>"長元",	"ja"=>array("ちょうげん"),							"en"=>array("Chougen"),						"from"=>"1028/8/18","to"=>"1037/5/9",	"emperor"=>array("後一条天皇", "後朱雀天皇")),
 	
-	 
+	
 );
 
 
